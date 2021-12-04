@@ -1,0 +1,6 @@
+pip install pandas==0.25.3
+pip install numpy==1.19.2
+pip install nltk==3.4.5
+pip install sklearn
+pip install pyswarms==1.1.0
+pip install SwarmPackagePy==1.0.0a5 
